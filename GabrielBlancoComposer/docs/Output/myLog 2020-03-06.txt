@@ -1,0 +1,109 @@
+An exception has occured on 10:25:51
+===================================
+java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at co.edu.unbosque.model.Mundo.generateEstrofa(Mundo.java:21)
+	at co.edu.unbosque.controller.Controller.Consola(Controller.java:60)
+	at co.edu.unbosque.controller.Controller.<init>(Controller.java:29)
+	at co.edu.unbosque.controller.APLMain.main(APLMain.java:10)
+
+===================================
+
+An exception has occured on 10:27:26
+===================================
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at co.edu.unbosque.model.Mundo.generateEstrofa(Mundo.java:21)
+	at co.edu.unbosque.controller.Controller.Consola(Controller.java:60)
+	at co.edu.unbosque.controller.Controller.<init>(Controller.java:29)
+	at co.edu.unbosque.controller.APLMain.main(APLMain.java:10)
+
+===================================
+
+An exception has occured on 11:12:52
+===================================
+java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at co.edu.unbosque.controller.Controller.Consola(Controller.java:60)
+	at co.edu.unbosque.controller.Controller.<init>(Controller.java:29)
+	at co.edu.unbosque.controller.APLMain.main(APLMain.java:10)
+
+===================================
+
+An exception has occured on 11:14:08
+===================================
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at co.edu.unbosque.model.Mundo.generateEstrofa(Mundo.java:23)
+	at co.edu.unbosque.controller.Controller.Consola(Controller.java:60)
+	at co.edu.unbosque.controller.Controller.<init>(Controller.java:29)
+	at co.edu.unbosque.controller.APLMain.main(APLMain.java:10)
+
+===================================
+
+An exception has occured on 11:15:04
+===================================
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at co.edu.unbosque.model.Mundo.generateEstrofa(Mundo.java:23)
+	at co.edu.unbosque.controller.Controller.Consola(Controller.java:60)
+	at co.edu.unbosque.controller.Controller.<init>(Controller.java:29)
+	at co.edu.unbosque.controller.APLMain.main(APLMain.java:10)
+
+===================================
+
+An exception has occured on 11:16:35
+===================================
+java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at co.edu.unbosque.model.Mundo.generateEstrofa(Mundo.java:23)
+	at co.edu.unbosque.controller.Controller.Consola(Controller.java:60)
+	at co.edu.unbosque.controller.Controller.<init>(Controller.java:29)
+	at co.edu.unbosque.controller.APLMain.main(APLMain.java:10)
+
+===================================
+
+An exception has occured on 12:48:02
+===================================
+java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at co.edu.unbosque.model.Mundo.generateEstrofa(Mundo.java:23)
+	at co.edu.unbosque.controller.Controller.Consola(Controller.java:60)
+	at co.edu.unbosque.controller.Controller.<init>(Controller.java:29)
+	at co.edu.unbosque.controller.APLMain.main(APLMain.java:10)
+
+===================================
+
+An exception has occured on 13:06:42
+===================================
+java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at co.edu.unbosque.model.Mundo.generarLetra(Mundo.java:32)
+	at co.edu.unbosque.controller.Controller.Consola(Controller.java:60)
+	at co.edu.unbosque.controller.Controller.<init>(Controller.java:29)
+	at co.edu.unbosque.controller.APLMain.main(APLMain.java:10)
+
+===================================
+
+An exception has occured on 13:07:09
+===================================
+java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 1
+	at co.edu.unbosque.model.Mundo.generarLetra(Mundo.java:32)
+	at co.edu.unbosque.controller.Controller.Consola(Controller.java:60)
+	at co.edu.unbosque.controller.Controller.<init>(Controller.java:29)
+	at co.edu.unbosque.controller.APLMain.main(APLMain.java:10)
+
+===================================
+
+An exception has occured on 15:37:39
+===================================
+java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+	at co.edu.unbosque.model.Mundo.generarLetra(Mundo.java:28)
+	at co.edu.unbosque.controller.Controller.Consola(Controller.java:60)
+	at co.edu.unbosque.controller.Controller.<init>(Controller.java:29)
+	at co.edu.unbosque.controller.APLMain.main(APLMain.java:10)
+
+===================================
+
+An exception has occured on 15:40:56
+===================================
+java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+	at co.edu.unbosque.model.Mundo.generarLetra(Mundo.java:28)
+	at co.edu.unbosque.controller.Controller.Consola(Controller.java:60)
+	at co.edu.unbosque.controller.Controller.<init>(Controller.java:29)
+	at co.edu.unbosque.controller.APLMain.main(APLMain.java:10)
+
+===================================
+
